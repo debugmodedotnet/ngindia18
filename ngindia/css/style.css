@@ -104,6 +104,18 @@ body {
 .header-wrap .logo-section {
     width: 12%;
     float: left;
+    position: relative;
+}
+
+img.angular-logo{
+    position: absolute;
+    width: 50px;
+    bottom: -5px;
+    left: 145px;
+}
+img.ng-india-logo{
+    left: 0;
+    display: inline;
 }
 
 .header-wrap .right-section {
@@ -1202,6 +1214,11 @@ footer.footer-section {
 
 
 @media (max-width: 991px) {
+    
+    img.angular-logo{
+        bottom: 5px;
+    }
+
     .header-wrap .logo-section {
         width: 150px;
         float: left;
