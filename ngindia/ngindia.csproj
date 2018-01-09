@@ -90,7 +90,7 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\fonts\fontawesome-webfont.svg" />
     <Content Include="css\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="css\style.css" />
+    <Content Include="css\style_201801091301.css" />
     <Content Include="images\91spring.jpg" />
     <Content Include="images\91spring_201801072056.jpg" />
     <Content Include="images\avatar.jpg" />
