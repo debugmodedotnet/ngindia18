@@ -1666,32 +1666,16 @@ footer.footer-section {
     padding: 18px 20px 10px;
 }
 
-/*@media (min-width: 487px) {
-    .container {
-        max-width: 750px;
-    }
-
-    .col-sm-6 {
-        width: 50%;
-    }
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
 }
 
-@media (min-width: 900px) {
-    .container {
-        max-width: 970px;
-    }
-
-    .col-md-4 {
-        width: 33.33333333333333%;
-    }
+.hurry-up {
+    line-height: 40px;
+    padding-right: 50px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: #DD0031;
 }
-
-@media (min-width: 1200px) {
-    .container {
-        max-width: 1170px;
-    }
-
-    .col-lg-3 {
-        width: 25%;
-    }
-}*/

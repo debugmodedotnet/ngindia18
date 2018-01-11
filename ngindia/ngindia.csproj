@@ -90,13 +90,14 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\fonts\fontawesome-webfont.svg" />
     <Content Include="css\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="css\style_201801091301.css" />
+    <Content Include="css\style_201801111719.css" />
     <Content Include="images\91spring.jpg" />
     <Content Include="images\91spring_201801072056.jpg" />
     <Content Include="images\ais.jpg" />
     <Content Include="images\avatar.jpg" />
     <Content Include="images\biztalk360.jpg" />
     <Content Include="images\biztalk360_201801072056.jpg" />
+    <Content Include="images\cerebrata.jpg" />
     <Content Include="images\Conference-Speaker.jpg" />
     <Content Include="images\Conference-Speaker_201801072056.jpg" />
     <Content Include="images\cspeaker.png" />
