@@ -93,6 +93,7 @@
     <Content Include="css\style_201801091301.css" />
     <Content Include="images\91spring.jpg" />
     <Content Include="images\91spring_201801072056.jpg" />
+    <Content Include="images\ais.jpg" />
     <Content Include="images\avatar.jpg" />
     <Content Include="images\biztalk360.jpg" />
     <Content Include="images\biztalk360_201801072056.jpg" />
@@ -109,6 +110,7 @@
     <Content Include="images\foreantech_201801072056.jpg" />
     <Content Include="images\geek97.JPG" />
     <Content Include="images\geek97_201801072056.JPG" />
+    <Content Include="images\hackr.png" />
     <Content Include="images\hotel.jpg" />
     <Content Include="images\hotel2.jpg" />
     <Content Include="images\hotel2_201801072056.jpg" />
@@ -126,8 +128,10 @@
     <Content Include="images\manjula_201801072056.jpg" />
     <Content Include="images\mbizcard.JPG" />
     <Content Include="images\mbizcard_201801072056.JPG" />
+    <Content Include="images\mirakee.JPG" />
     <Content Include="images\ngindiahash.JPG" />
     <Content Include="images\ngindiahash_201801072056.JPG" />
+    <Content Include="images\ngindiatshirt.jpg" />
     <Content Include="images\ngIndia_logo_201801072056.png" />
     <Content Include="images\ngIndia_logo_dark_201801072056.jpg" />
     <Content Include="images\ngIndia_social_bg.png" />
@@ -135,6 +139,7 @@
     <Content Include="images\nitisha.jpg" />
     <Content Include="images\nitisha_201801072056.jpg" />
     <Content Include="images\qpond.jpeg" />
+    <Content Include="images\qpond.jpg" />
     <Content Include="images\qpond_201801072056.jpeg" />
     <Content Include="images\rahat.jpg" />
     <Content Include="images\rahat_201801072056.jpg" />
@@ -156,6 +161,7 @@
     <Content Include="images\speakers_201801072056.jpg" />
     <Content Include="images\summitvegas_trackspeakers.jpg" />
     <Content Include="images\toddmotto_201801072056.jpg" />
+    <Content Include="images\tripshire.jpg" />
     <Content Include="images\vinci.jpg" />
     <Content Include="images\vinci_201801072056.jpg" />
     <Content Include="images\Yourstory.jpg" />
