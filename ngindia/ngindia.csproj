@@ -96,6 +96,7 @@
     <Content Include="images\ais.jpg" />
     <Content Include="images\avatar.jpg" />
     <Content Include="images\biztalk360.jpg" />
+    <Content Include="images\biztalk360.png" />
     <Content Include="images\biztalk360_201801072056.jpg" />
     <Content Include="images\cerebrata.jpg" />
     <Content Include="images\Conference-Speaker.jpg" />
@@ -112,6 +113,7 @@
     <Content Include="images\geek97.JPG" />
     <Content Include="images\geek97_201801072056.JPG" />
     <Content Include="images\hackr.png" />
+    <Content Include="images\hirez.png" />
     <Content Include="images\hotel.jpg" />
     <Content Include="images\hotel2.jpg" />
     <Content Include="images\hotel2_201801072056.jpg" />
